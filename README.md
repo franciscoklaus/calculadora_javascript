@@ -1,0 +1,1 @@
+Calculadora criada utilizando JS e HTML5
